@@ -1,0 +1,12 @@
+# Xcode
+DerivedData/
+*.xcworkspace
+xcuserdata/
+*.xcuserstate
+
+# Secrets
+.env
+*.plist
+
+# macOS
+.DS_Store
